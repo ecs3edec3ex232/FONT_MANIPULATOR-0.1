@@ -20,7 +20,7 @@
     text-align: center;
 }
 
-.NAME{
+.h{
  
     color: white;
  font-size: 75;
@@ -30,3 +30,8 @@
     text-align:right;
 }
 
+canvas{
+    border: 3px solid gray;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
